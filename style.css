@@ -1,0 +1,47 @@
+* {
+    font-family: "arial";
+}
+
+.jsharkkatyyli{
+    display: none;
+    }
+
+.esimerkki {
+    color: red;
+    text-indent: 10px;
+
+}
+
+.esimerkki-box {
+    background-color: blue;
+    color:aqua;
+
+}
+
+table, tr, td {
+    background-color: #5599AA;
+    color: #solid white;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin: 20px;
+    border: 3px solid #114499;
+}
+
+td {
+    border: 1px solid white;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color:lightsalmon;
+}
